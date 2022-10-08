@@ -10,4 +10,4 @@ function removeDuplicate(arr) {
     return true
   })
 }
-console.log( removeDuplicate(arr) )
+console.log( removeDuplicate(arr))
